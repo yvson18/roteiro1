@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1573929989 source:c:\users\yvson\documents\alguma parada\invoice\main.cpp
+	<iostream>
+	<string>
+	"Invoice.h"
+
+1573927889 c:\users\yvson\documents\alguma parada\invoice\include\invoice.h
+
+1573927971 source:c:\users\yvson\documents\alguma parada\invoice\src\invoice.cpp
+	<iostream>
+	<string>
+	"Invoice.h"
+

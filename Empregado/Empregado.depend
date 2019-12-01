@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1573988452 source:c:\users\yvson\documents\alguma parada\empregado\main.cpp
+	<iostream>
+	<string>
+	"Empregado.h"
+
+1573988341 c:\users\yvson\documents\alguma parada\empregado\include\empregado.h
+
+1573987864 source:c:\users\yvson\documents\alguma parada\empregado\src\empregado.cpp
+	<iostream>
+	<string>
+	"Empregado.h"
+

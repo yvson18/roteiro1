@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1575216818 source:c:\users\yvson\documents\alguma parada\gastos\main.cpp
+	<iostream>
+	<string>
+	"include\Despesa.h"
+	"include\ControleDeGastos.h"
+
+1575217226 c:\users\yvson\documents\alguma parada\gastos\include\despesa.h
+
+1575217226 c:\users\yvson\documents\alguma parada\gastos\include\controledegastos.h
+	"Despesa.h"
+
+1575217192 source:c:\users\yvson\documents\alguma parada\gastos\src\despesa.cpp
+	<iostream>
+	<string>
+	"Despesa.h"
+
+1575217226 source:c:\users\yvson\documents\alguma parada\gastos\src\controledegastos.cpp
+	<iostream>
+	<string>
+	"ControleDeGastos.h"
+
